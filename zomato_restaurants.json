@@ -1,44 +1,111 @@
 [
   {
-    "name": "Home/",
-    "url": "https://www.zomato.com/roorkee/restaurants",
-    "menu": [],
-    "contact": "N/A",
-    "rating": "4.3"
+    "restaurant_name": "Venky's Chicken Xperience",
+    "contact_number": "+919355053444",
+    "rating": 3.9,
+    "menu": [
+      { "name": "Hot and Spicy Chicken Wings", "price": 235 },
+      { "name": "Tender Grilled Chicken [4 Pieces]", "price": 225 },
+      { "name": "Chicken Tandoori Roast", "price": 420 },
+      { "name": "Chicken Garlic Pepper Roast", "price": 420 },
+      { "name": "Chicken Keema with Paratha [2 pieces]", "price": 270 },
+      { "name": "Mughlai Chicken Biryani [350 g]", "price": 220 },
+      { "name": "Moms Chicken Biryani [350 g]", "price": 220 },
+      { "name": "Dhaba Style Butter Chicken", "price": 230 },
+      { "name": "1 Malabar Paratha", "price": 30 },
+      { "name": "Veg Burger", "price": 120 },
+      { "name": "Aloo Tikki Burger", "price": 135 },
+      { "name": "Garlic Pepper Grilled Chicken Burger", "price": 215 },
+      { "name": "Tandoori Grilled Chicken Burger", "price": 215 },
+      { "name": "Chicken and Cheese Burger", "price": 195 },
+      { "name": "Crispy Chicken Burger", "price": 195 },
+      { "name": "Spicy Chicken Burger", "price": 190 }
+    ]
   },
   {
-    "name": "Pizza",
-    "url": "https://www.zomato.com/roorkee/roorkee-locality-restaurants?place_name=Lal+Kurti+Cantonment%2C+Roorkee+Cantonment%2C+Roorkee&dishv2_id=68987&context=delivery",
-    "menu": [],
-    "contact": "N/A",
-    "rating": "3.8"
+    "restaurant_name": "Hangries",
+    "contact_number": "+919717423572",
+    "rating": 4.0,
+    "menu": [
+      { "name": "Soya Pizza", "price": 190 },
+      { "name": "Onion Pizza", "price": 165 },
+      { "name": "Capsicum Pizza", "price": 180 },
+      { "name": "Corn Pizza", "price": 180 },
+      { "name": "Tomato Pizza", "price": 170 },
+      { "name": "Onion & Jalapeno Pizza", "price": 210 },
+      { "name": "Onion & Capsicum Pizza", "price": 210 },
+      { "name": "Soya & Corn Pizza", "price": 210 },
+      { "name": "Paneer & Capsicum Pizza", "price": 235 },
+      { "name": "Paneer & Onion Pizza", "price": 235 },
+      { "name": "Jalapeno & Pineapple Pizza", "price": 235 },
+      { "name": "Corn & Capsicum Pizza", "price": 235 },
+      { "name": "Vegetable Chopsuey", "price": 235 }
+    ]
   },
-  {
-    "name": "Prakash Sweets",
-    "url": "https://www.zomato.com/roorkee/prakash-sweets-1-roorkee-locality/order",
-    "menu": [],
-    "contact": "+911332270121",
-    "rating": "-"
-  },
-  {
-    "name": "Uttam Dhaba",
-    "url": "https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order",
-    "menu": [],
-    "contact": "+919837402368",
-    "rating": "3.7"
-  },
-  {
-    "name": "Bhalla Bhojnalya",
-    "url": "https://www.zomato.com/roorkee/bhalla-bhojnalya-roorkee-locality/order",
-    "menu": [],
-    "contact": "+919897224046",
-    "rating": "3.1"
-  },
-  {
-    "name": "Afghan near me",
-    "url": "https://www.zomato.com/roorkee/restaurants/kfc",
-    "menu": [],
-    "contact": "N/A",
-    "rating": "Ratingchevron-down"
-  }
+    {
+      "restaurant_name": "Baap Of Rolls",
+      "contact_number": "+919149392227",
+      "rating": 3.8,
+      "menu": [
+        {"name": "Masala Corn Roll", "price": 129},
+        {"name": "Peppery Veggie Roll", "price": 129},
+        {"name": "Veggie Korma Roll", "price": 129},
+        {"name": "Veggie Roll", "price": 109},
+        {"name": "Double Egg Makhani Roll", "price": 159},
+        {"name": "Double Egg Malai Roll", "price": 159},
+        {"name": "Double Egg Mint Roll", "price": 159},
+        {"name": "Double Egg Peppery Roll", "price": 159},
+        {"name": "Double Egg Roll", "price": 159},
+        {"name": "Double Egg Tandoori Roll", "price": 159},
+        {"name": "Triple Egg Roll", "price": 179},
+        {"name": "Achari Chicken Roll", "price": 229},
+        {"name": "Zinger Chicken Roll", "price": 179}
+      ]
+    },
+    {
+      "restaurant_name": "RollsKing",
+      "contact_number": "+918929350102",
+      "rating": 4.1,
+      "menu": [
+        {"name": "Triple Egg Roll + Drink", "price": 249},
+        {"name": "Veg Kabab Tikki Roll + Drink", "price": 299},
+        {"name": "Chicken Manchurian Roll + Drink", "price": 272},
+        {"name": "Classic Chicken Roll + Drink", "price": 339},
+        {"name": "Veg Manchurian Roll + Drink", "price": 257},
+        {"name": "Double Egg Roll + Fries + Drink", "price": 352},
+        {"name": "Butter Chicken Roll + Fries + Drink", "price": 429},
+        {"name": "Classic Chicken Roll + Fries + Drink", "price": 449},
+        {"name": "Bhuna Chicken Roll + Fries + Drink", "price": 449},
+        {"name": "Paneer Bhurji Roll + Fries + Drink", "price": 440},
+        {"name": "Paneer Classic Roll + Fries + Drink", "price": 410},
+        {"name": "Bhuna Soya Chap Roll + Fries + Drink", "price": 430},
+        {"name": "Chicken Manchurian Roll", "price": 198},
+        {"name": "Zinger Chicken Roll", "price": 179}
+      ]
+    },
+    {
+      "restaurant_name": "Waffle By Nature",
+      "contact_number": "+919873835102",
+      "rating": 4.4,
+      "menu": [
+        {"name": "Chilly Garlic Potato Shots (8 Pcs)", "price": 129},
+        {"name": "French Fries", "price": 99},
+        {"name": "Masala Fries", "price": 129},
+        {"name": "Paneer Pakoda (6 Pcs)", "price": 149},
+        {"name": "Peri-peri Fries", "price": 129},
+        {"name": "Potato Cheese Shots (8 Pcs)", "price": 149},
+        {"name": "Spring Roll (6 Pcs)", "price": 159},
+        {"name": "Veggie Fingers", "price": 149},
+        {"name": "Blueberry Cream Cheese Waffle", "price": 229},
+        {"name": "Honey Butter Waffle", "price": 199},
+        {"name": "Maple Butter Waffle", "price": 199},
+        {"name": "Royal Rose Almond", "price": 199},
+        {"name": "Strawberry Cream Cheese Waffle", "price": 229},
+        {"name": "Berry Red Velvet Waffle", "price": 219},
+        {"name": "Dark Chocolate Waffle", "price": 219},
+        {"name": "Kiki & Oreo Cream Waffle", "price": 219},
+        {"name": "Kitkat Waffle", "price": 219}
+      ]
+    }
+  
 ]
