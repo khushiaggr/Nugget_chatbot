@@ -1,0 +1,6 @@
+2025-04-23 02:43:17,254 - ERROR - Error scraping https://www.opentable.com/r/gramercy-tavern-new-york: HTTPSConnectionPool(host='www.opentable.com', port=443): Read timed out. (read timeout=10)
+2025-04-23 02:43:18,143 - WARNING - Scraping not allowed by robots.txt: https://www.yelp.com/biz/joes-pizza-new-york
+2025-04-23 02:43:18,645 - WARNING - Scraping not allowed by robots.txt: https://www.zomato.com/ncr/indigo-deli-connaught-place-new-delhi
+2025-04-23 02:43:22,874 - ERROR - Error scraping https://www.tripadvisor.com/Restaurant_Review-g60763-d423338-Reviews-Katz_s_Delicatessen-New_York_City_New_York.html: 403 Client Error: Forbidden for url: https://www.tripadvisor.com/Restaurant_Review-g60763-d423338-Reviews-Katz_s_Delicatessen-New_York_City_New_York.html
+2025-04-23 02:43:27,250 - ERROR - Error scraping https://www.eater.com/maps/best-new-restaurants-america-2023: 404 Client Error: Not Found for url: https://www.eater.com/maps/best-new-restaurants-america-2023
+2025-04-23 02:43:28,975 - WARNING - Scraping not allowed by robots.txt: https://www.doordash.com/store/joes-pizza-new-york-27193/en-US

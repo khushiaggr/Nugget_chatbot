@@ -1,0 +1,65 @@
+.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Buddy</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <div class="logo">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 15C15.866 15 19 11.866 19 8C19 4.13401 15.866 1 12 1C8.13401 1 5 4.13401 5 8C5 11.866 8.13401 15 12 15Z" stroke="#FFD166" stroke-width="2"/>
+                    <path d="M12 15V23" stroke="#FFD166" stroke-width="2"/>
+                    <path d="M8 19H16" stroke="#FFD166" stroke-width="2"/>
+                </svg>
+                <h1>Restaurant Buddy</h1>
+            </div>
+            <div class="chat-menu">
+                <button id="clear-chat" title="Clear conversation">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M3 6H21M9 3H15M10 11V17M14 11V17M5 6L6 20C6 20.5304 6.21071 21.0391 6.58579 21.4142C6.96086 21.7893 7.46957 22 8 22H16C16.5304 22 17.0391 21.7893 17.4142 21.4142C17.7893 21.0391 18 20.5304 18 20L19 6" stroke="#E5E5E5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        
+        <div class="chat-messages" id="chat-messages">
+            <div class="message bot-message">
+                <div class="avatar bot-avatar">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 15C15.866 15 19 11.866 19 8C19 4.13401 15.866 1 12 1C8.13401 1 5 4.13401 5 8C5 11.866 8.13401 15 12 15Z" stroke="#FFD166" stroke-width="2"/>
+                        <path d="M12 15V23" stroke="#FFD166" stroke-width="2"/>
+                        <path d="M8 19H16" stroke="#FFD166" stroke-width="2"/>
+                    </svg>
+                </div>
+                <div class="message-content">
+                    <p>Hi there! I'm Restaurant Buddy. I can help you find restaurants, explore menus, and answer your food-related questions. How can I assist you today?</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="chat-input-container">
+            <div class="input-wrapper">
+                <input type="text" id="user-input" placeholder="Ask me about restaurants, menus, or dishes...">
+                <button id="send-button" type="submit">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M22 2L11 13" stroke="#FFD166" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="#FFD166" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="suggestion-chips">
+                <button class="chip">Find vegetarian options</button>
+                <button class="chip">Best pizza places</button>
+                <button class="chip">Spicy food near me</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

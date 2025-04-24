@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Home/",
+    "url": "https://www.zomato.com/roorkee/restaurants",
+    "menu": [],
+    "contact": "N/A",
+    "rating": "4.3"
+  },
+  {
+    "name": "Pizza",
+    "url": "https://www.zomato.com/roorkee/roorkee-locality-restaurants?place_name=Lal+Kurti+Cantonment%2C+Roorkee+Cantonment%2C+Roorkee&dishv2_id=68987&context=delivery",
+    "menu": [],
+    "contact": "N/A",
+    "rating": "3.8"
+  },
+  {
+    "name": "Prakash Sweets",
+    "url": "https://www.zomato.com/roorkee/prakash-sweets-1-roorkee-locality/order",
+    "menu": [],
+    "contact": "+911332270121",
+    "rating": "-"
+  },
+  {
+    "name": "Uttam Dhaba",
+    "url": "https://www.zomato.com/roorkee/uttam-dhaba-roorkee-locality/order",
+    "menu": [],
+    "contact": "+919837402368",
+    "rating": "3.7"
+  },
+  {
+    "name": "Bhalla Bhojnalya",
+    "url": "https://www.zomato.com/roorkee/bhalla-bhojnalya-roorkee-locality/order",
+    "menu": [],
+    "contact": "+919897224046",
+    "rating": "3.1"
+  },
+  {
+    "name": "Afghan near me",
+    "url": "https://www.zomato.com/roorkee/restaurants/kfc",
+    "menu": [],
+    "contact": "N/A",
+    "rating": "Ratingchevron-down"
+  }
+]
